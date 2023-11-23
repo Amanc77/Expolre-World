@@ -29,6 +29,7 @@
   width: 160px;
   margin-top: -10px;
   cursor: pointer;
+  background-color: transparent;
 
 }
 .navbar ul li{
@@ -46,7 +47,7 @@
 
 }
 .li a:hover{
-  background-color: rgb(24, 197, 70);
+  background-color: rgb(24, 197, 177);
   transition: 0.6s;
 
 }
@@ -89,7 +90,7 @@ button{
 }
 button:hover{
   
- background-color: rgb(48, 210, 30);
+ background-color: rgb(120, 30, 210);
   transition: 0.3s;
 }
 button:hover{
@@ -138,15 +139,15 @@ a {
 }
 
 a:visited {
-  color: rgb(36, 228, 26);
+  color: rgba(126, 248, 4, 0.887);
 }
 
 a:hover {
-  color: brown;
+  color: rgb(243, 7, 7);
 }
 
 a:active {
-  color: brown;
+  color: rgb(165, 159, 42);
 }
 .address {
   margin-bottom: 10px;
